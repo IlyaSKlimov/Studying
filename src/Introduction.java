@@ -14,5 +14,7 @@ public class Introduction {
         System.out.println("I want to be java developer!");
         System.out.println("Fixes were maden");
         System.out.println("Tes");
+        System.out.println("Fix1");
+        System.out.println("Fix2");
     }
 }
