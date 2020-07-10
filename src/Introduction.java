@@ -1,3 +1,5 @@
+import sun.lwawt.macosx.CSystemTray;
+
 public class Introduction {
     public static void main(String[] args){
         System.out.print("Hello! my name is Ilya. ");
@@ -11,5 +13,6 @@ public class Introduction {
         System.out.println("I want to be java developer!");
         System.out.println("I want to be java developer!");
         System.out.println("Fixes were maden");
+        System.out.println("Test 2");
     }
 }

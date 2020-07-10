@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a688f7a-04e4-4ed2-9077-b734f51a9686" name="Default Changelist" comment="">
+    <list default="true" id="3a688f7a-04e4-4ed2-9077-b734f51a9686" name="Default Changelist" comment="fix commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction.java" afterDir="false" />
     </list>
@@ -54,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1594386737219</updated>
     </task>
+    <task id="LOCAL-00001" summary="fix commit">
+      <created>1594396396121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594396396121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,10 +75,18 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="686" y="443" key="Github.ShareDialog" timestamp="1594388114565">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="686" y="443" key="Github.ShareDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1594388114565" />
+    <state x="594" y="249" key="RollbackChangesDialog" timestamp="1594396355547">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="594" y="249" key="RollbackChangesDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1594396355547" />
   </component>
 </project>
