@@ -11,10 +11,15 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="3a688f7a-04e4-4ed2-9077-b734f51a9686" name="Default Changelist" comment="fix commit">
 =======
     <list default="true" id="3a688f7a-04e4-4ed2-9077-b734f51a9686" name="Default Changelist" comment="">
 >>>>>>> fix
+=======
+    <list default="true" id="3a688f7a-04e4-4ed2-9077-b734f51a9686" name="Default Changelist" comment="">
+    <list default="true" id="3a688f7a-04e4-4ed2-9077-b734f51a9686" name="Default Changelist" comment="fix commit">
+>>>>>>> fd87a68c8c0383f0ab11ae97f8c8ce7c102684ee
       <change beforePath="$PROJECT_DIR$/src/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
